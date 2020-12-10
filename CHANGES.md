@@ -1,5 +1,18 @@
 # Changes
 
+## [0.37.0](https://www.github.com/googleapis/google-api-go-client/compare/v0.36.0...v0.37.0) (2020-12-10)
+
+
+### Features
+
+* **all:** auto-regenerate discovery clients , refs [#784](https://www.github.com/googleapis/google-api-go-client/issues/784) [#782](https://www.github.com/googleapis/google-api-go-client/issues/782) [#779](https://www.github.com/googleapis/google-api-go-client/issues/779) [#771](https://www.github.com/googleapis/google-api-go-client/issues/771) [#770](https://www.github.com/googleapis/google-api-go-client/issues/770) [#768](https://www.github.com/googleapis/google-api-go-client/issues/768)
+
+
+### Bug Fixes
+
+* **compute:** don't tigger linter for field named Deprecated ([#774](https://www.github.com/googleapis/google-api-go-client/issues/774)) ([d2bc921](https://www.github.com/googleapis/google-api-go-client/commit/d2bc921f997425bc267d8e4845286b0d67bbe1ef)), refs [#767](https://www.github.com/googleapis/google-api-go-client/issues/767)
+* **transport/grpc:** check Compute Engine environment for DirectPath ([#781](https://www.github.com/googleapis/google-api-go-client/issues/781)) ([89287b6](https://www.github.com/googleapis/google-api-go-client/commit/89287b68a240f818e9ae70a6395b1d72e21ee236))
+
 ## [0.36.0](https://www.github.com/googleapis/google-api-go-client/compare/v0.35.0...v0.36.0) (2020-12-03)
 
 
